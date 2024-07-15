@@ -1,0 +1,1 @@
+import{f as r}from"./index-1aVAeLWL.js";import{d as e}from"./query-G1AwWss6.js";import{f as m}from"./index-05uTbNHo.js";function t(){return{id:r.number.int(),time:m(r.date.future(),"HH:ii"),durationSeconds:r.number.int({min:60*60,max:60*60*3})}}const n=()=>e(t());export{t as a,n as m};
