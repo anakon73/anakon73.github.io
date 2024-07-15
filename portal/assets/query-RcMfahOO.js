@@ -1,0 +1,1 @@
+import{u as a,f as n,g as o,h as i}from"./query-G1AwWss6.js";function p(){const s=a();return n({mutationFn:o,onSuccess(e,{tourBookingId:t}){s.setQueryData(i({scheduledDepartureId:e.scheduledDepartureId}).queryKey,u=>{if(u)return{...u,tourBookings:u.tourBookings.map(r=>r.id===t?{...r,status:e.status,arrivedPassengerCount:e.arrivedPassengerCount}:r)}})}})}export{p as u};
