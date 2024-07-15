@@ -1,1 +1,0 @@
-const e={Cancelled:"noshow",Confirmed:"confirmed",Arrived:"arrived",Other:"other",DroppedOff:"droppedoff"},o={Cancelled:"cancelled",Ongoing:"ongoing"},n={Pickup:"pickup",Passengers:"passengers"};export{e as B,o as S,n as a};

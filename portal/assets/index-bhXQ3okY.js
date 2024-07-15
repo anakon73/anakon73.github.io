@@ -1,1 +1,0 @@
-import{j as r,g as u,u as n}from"./vue.esm-bundler-CYPfFjdk.js";import{c as a}from"./index-baqd9Qr3.js";const c=a(()=>({count:r(0)}));function m(t){const{count:o}=c(),e=`portal-${++o.value}`;return u(()=>n(t)??e)}export{m as u};
